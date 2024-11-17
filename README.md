@@ -1,6 +1,6 @@
-# Windows Komutları
+# Windows CMD Komutları
 Bu projede en çok kullanılan windows komutlarına yer verilmiştir.
-##Klasör Komutları
+
 #### cd Komutu
 Çalışma dizinini değiştirir.
 ```
