@@ -1,8 +1,6 @@
 # Windows CMD Komutları
 Bu projede en çok kullanılan windows komutlarına yer verilmiştir.
 
-## Klasör Komutları
-
 #### cd Komutu
 Çalışma dizinini değiştirir.
 ```
@@ -107,7 +105,6 @@ taskkill
 ```
 ![tskkill](https://github.com/user-attachments/assets/b0ed3641-f135-456e-9185-cc777c6b5382)
 
-## Sistem Komutları
 
 #### shutdown Komutu
 Bilgisayarı kapatır veya yeniden başlatır.
